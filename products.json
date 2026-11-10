@@ -1,0 +1,13 @@
+{
+  "category": "شاشات",
+  "products": [
+    {"id": "samsung-43-u8000h", "name": "Samsung 43\" Crystal UHD 4K U8000H", "brand": "samsung", "family": "samsung u8000h", "model": "43U8000H", "min_price": 9000},
+    {"id": "samsung-50-u8000h", "name": "Samsung 50\" Crystal UHD 4K U8000H", "brand": "samsung", "family": "samsung u8000h", "model": "50U8000H", "min_price": 11000},
+    {"id": "samsung-55-u8000h", "name": "Samsung 55\" Crystal UHD 4K U8000H", "brand": "samsung", "family": "samsung u8000h", "model": "55U8000H", "min_price": 13000},
+    {"id": "samsung-65-u8000h", "name": "Samsung 65\" Crystal UHD 4K U8000H", "brand": "samsung", "family": "samsung u8000h", "model": "65U8000H", "min_price": 16000},
+    {"id": "samsung-43-f6000f", "name": "Samsung 43\" FHD Smart F6000F", "brand": "samsung", "family": "samsung f6000f", "model": "43F6000F", "aliases": ["UA43F6000"], "min_price": 8000},
+    {"id": "lg-50-nu830b", "name": "LG 50\" NanoCell 4K NU830B", "brand": "lg", "family": "lg nu830b", "model": "50NU830B", "min_price": 12000},
+    {"id": "lg-55-nu830b", "name": "LG 55\" NanoCell 4K NU830B", "brand": "lg", "family": "lg nu830b", "model": "55NU830B", "min_price": 14000},
+    {"id": "lg-65-nu830b", "name": "LG 65\" NanoCell 4K NU830B", "brand": "lg", "family": "lg nu830b", "model": "65NU830B", "min_price": 17000}
+  ]
+}
