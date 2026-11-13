@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:23:23.096983+00:00",
+ "updated": "2026-11-13T20:34:34.664712+00:00",
  "category": "شاشات",
  "stores": {
   "Amazon.eg": {
@@ -7,10 +7,10 @@
    "ok": 1,
    "blocked": 0,
    "errors": 2,
-   "raw_offers": 47,
+   "raw_offers": 4,
    "matched": 2,
    "notes": [
-    "http_error 503 https://www.amazon.eg/s?k=samsung+f6000f+tv&language=en_AE",
+    "http_error 503 https://www.amazon.eg/s?k=samsung+u8000h+tv&language=en_AE",
     "http_error 503 https://www.amazon.eg/s?k=lg+nu830b+tv&language=en_AE"
    ]
   },
@@ -19,8 +19,8 @@
    "ok": 2,
    "blocked": 0,
    "errors": 0,
-   "raw_offers": 27,
-   "matched": 6,
+   "raw_offers": 25,
+   "matched": 4,
    "notes": []
   },
   "Raya": {
@@ -28,7 +28,7 @@
    "ok": 5,
    "blocked": 0,
    "errors": 0,
-   "raw_offers": 110,
+   "raw_offers": 114,
    "matched": 8,
    "notes": []
   },
@@ -38,7 +38,7 @@
    "blocked": 0,
    "errors": 0,
    "raw_offers": 20,
-   "matched": 5,
+   "matched": 8,
    "notes": []
   },
   "Jumia": {
@@ -137,15 +137,6 @@
      "url": "https://www.rayashop.com/en/lg-nu83-55-inch-4k-uhd-smart-nanocell-led-tv-with-built-in-receiver-55nu830b6la-3",
      "in_stock": true,
      "sku": ""
-    },
-    {
-     "product_id": "lg-55-nu830b",
-     "store": "2B",
-     "title": "LG TV 55 Inch NU83 4K UHD - Smart Nano Cell LED - With Built In Receiver - 55NU830B6LA",
-     "price": 23999.0,
-     "url": "https://2b.com.eg/en/lg-tv-55-inch-nu83-4k-uhd-smart-nano-cell-led-with-built-in-receiver-55nu830b6la.html",
-     "in_stock": true,
-     "sku": ""
     }
    ]
   },
@@ -179,15 +170,6 @@
      "url": "https://www.rayashop.com/en/lg-nu83-65-inch-4k-uhd-smart-nanocell-led-tv-with-built-in-receiver-65nu830b6la-4",
      "in_stock": true,
      "sku": ""
-    },
-    {
-     "product_id": "lg-65-nu830b",
-     "store": "2B",
-     "title": "LG TV 65 Inch NU83 4K UHD - Smart Nano Cell LED - With Built In Receiver - 65NU830B6LA",
-     "price": 28999.0,
-     "url": "https://2b.com.eg/en/lg-tv-65-inch-nu83-4k-uhd-smart-nano-cell-led-with-built-in-receiver-65nu830b6la.html",
-     "in_stock": true,
-     "sku": ""
     }
    ]
   },
@@ -196,14 +178,23 @@
    "name": "Samsung 43\" Crystal UHD 4K U8000H",
    "best": {
     "product_id": "samsung-43-u8000h",
-    "store": "Raya",
-    "title": "Samsung U8000H 43 Inch 4K UHD Smart LED TV with Built In Receiver - UA43U8000H",
+    "store": "Amazon.eg",
+    "title": "Samsung 43 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA43U8000HUXEG (2026 Model)",
     "price": 15799.0,
-    "url": "https://www.rayashop.com/en/samsung-u8000h-43-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua43u8000h-ua43u8000h",
+    "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA43U8000HUXEG/dp/B0GRBS6XPZ",
     "in_stock": true,
-    "sku": ""
+    "sku": "B0GRBS6XPZ"
    },
    "offers": [
+    {
+     "product_id": "samsung-43-u8000h",
+     "store": "Amazon.eg",
+     "title": "Samsung 43 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA43U8000HUXEG (2026 Model)",
+     "price": 15799.0,
+     "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA43U8000HUXEG/dp/B0GRBS6XPZ",
+     "in_stock": true,
+     "sku": "B0GRBS6XPZ"
+    },
     {
      "product_id": "samsung-43-u8000h",
      "store": "Raya",
@@ -215,12 +206,12 @@
     },
     {
      "product_id": "samsung-43-u8000h",
-     "store": "2B",
-     "title": "Samsung U8000H TV 43 Inch 4K UHD Smart LED Built In Receiver - UA43U8000H",
-     "price": 16999.0,
-     "url": "https://2b.com.eg/en/samsung-u8000h-tv-43-inch-4k-uhd-smart-led-built-in-receiver-ua43u8000h.html",
+     "store": "B.Tech",
+     "title": "Samsung 43 Inch Smart TV , 4K LED Built-In Receiver",
+     "price": 16499.0,
+     "url": "https://btech.com/en/p/4ab7d41a-9608-493c-b9b2-e74fd5bd7627?offering_id=379ebdaf-5d78-406e-978f-3e0c702b827b",
      "in_stock": true,
-     "sku": ""
+     "sku": "1TSATVSM43U8000HL007"
     }
    ]
   },
@@ -231,7 +222,7 @@
     "product_id": "samsung-43-f6000f",
     "store": "Amazon.eg",
     "title": "Samsung 43 Inch Full HD Smart LED TV with Built-in Receiver - Black - UA43F6000FUXEG [2025 Model]",
-    "price": 14399.0,
+    "price": 14611.0,
     "url": "https://www.amazon.eg/-/en/Samsung-Inch-Smart-Built-Receiver/dp/B0F5QM35FZ",
     "in_stock": true,
     "sku": "B0F5QM35FZ"
@@ -241,7 +232,7 @@
      "product_id": "samsung-43-f6000f",
      "store": "Amazon.eg",
      "title": "Samsung 43 Inch Full HD Smart LED TV with Built-in Receiver - Black - UA43F6000FUXEG [2025 Model]",
-     "price": 14399.0,
+     "price": 14611.0,
      "url": "https://www.amazon.eg/-/en/Samsung-Inch-Smart-Built-Receiver/dp/B0F5QM35FZ",
      "in_stock": true,
      "sku": "B0F5QM35FZ"
@@ -252,6 +243,15 @@
      "title": "SAMSUNG 43 Inch FHD Smart LED TV with Built In Receiver - UA43F6000F",
      "price": 14699.0,
      "url": "https://www.rayashop.com/en/samsung-43-inch-fhd-smart-led-tv-with-built-in-receiver-ua43f6000f-2",
+     "in_stock": true,
+     "sku": ""
+    },
+    {
+     "product_id": "samsung-43-f6000f",
+     "store": "2B",
+     "title": "Samsung TV 43 Inch LED FHD Smart Built-in Receiver - Black - UA43F6000",
+     "price": 14999.0,
+     "url": "https://2b.com.eg/en/samsung-tv-43-inch-led-fhd-smart-built-in-receiver-black-ua43f6000.html",
      "in_stock": true,
      "sku": ""
     },
@@ -329,6 +329,15 @@
      "url": "https://www.rayashop.com/en/samsung-u8000h-55-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua55u8000h-ua55u8000h",
      "in_stock": true,
      "sku": ""
+    },
+    {
+     "product_id": "samsung-55-u8000h",
+     "store": "B.Tech",
+     "title": "Samsung 55 Inch Smart TV , 4K LED Built-In Receiver",
+     "price": 20888.0,
+     "url": "https://btech.com/en/p/0c6fc0e2-b370-4a64-adaa-dbab4d758d2a?offering_id=3fef1b72-3f56-462c-a02c-fe598f28e1a4",
+     "in_stock": true,
+     "sku": "1TSATVSM55U8000HL007"
     }
    ]
   },
@@ -337,23 +346,14 @@
    "name": "Samsung 65\" Crystal UHD 4K U8000H",
    "best": {
     "product_id": "samsung-65-u8000h",
-    "store": "Amazon.eg",
-    "title": "Samsung 65 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA65U8000HUXEG(2026 Model)",
-    "price": 25499.0,
-    "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA65U8000HUXEG/dp/B0GWK5HWQB",
+    "store": "Raya",
+    "title": "Samsung Crystal 65 Inch 4K UHD Smart LED TV with Built In Receiver - UA65U8000H",
+    "price": 25999.0,
+    "url": "https://www.rayashop.com/en/samsung-crystal-65-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua65u8000h",
     "in_stock": true,
-    "sku": "B0GWK5HWQB"
+    "sku": ""
    },
    "offers": [
-    {
-     "product_id": "samsung-65-u8000h",
-     "store": "Amazon.eg",
-     "title": "Samsung 65 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA65U8000HUXEG(2026 Model)",
-     "price": 25499.0,
-     "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA65U8000HUXEG/dp/B0GWK5HWQB",
-     "in_stock": true,
-     "sku": "B0GWK5HWQB"
-    },
     {
      "product_id": "samsung-65-u8000h",
      "store": "Raya",
@@ -362,6 +362,15 @@
      "url": "https://www.rayashop.com/en/samsung-crystal-65-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua65u8000h",
      "in_stock": true,
      "sku": ""
+    },
+    {
+     "product_id": "samsung-65-u8000h",
+     "store": "B.Tech",
+     "title": "Samsung 65 Inch Smart TV , 4K UHD LED Built-In Receiver",
+     "price": 25999.0,
+     "url": "https://btech.com/en/p/91fc8730-5772-4a5e-8724-88b370741675?offering_id=d1bfeeb1-29bc-40c5-ada8-79f185d41006",
+     "in_stock": true,
+     "sku": "1TSATVSM65U8000HL007"
     },
     {
      "product_id": "samsung-65-u8000h",
@@ -381,12 +390,12 @@
    "name": "Samsung 65\" Crystal UHD 4K U8000H",
    "cheapest": {
     "product_id": "samsung-65-u8000h",
-    "store": "Amazon.eg",
-    "title": "Samsung 65 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA65U8000HUXEG(2026 Model)",
-    "price": 25499.0,
-    "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA65U8000HUXEG/dp/B0GWK5HWQB",
+    "store": "Raya",
+    "title": "Samsung Crystal 65 Inch 4K UHD Smart LED TV with Built In Receiver - UA65U8000H",
+    "price": 25999.0,
+    "url": "https://www.rayashop.com/en/samsung-crystal-65-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua65u8000h",
     "in_stock": true,
-    "sku": "B0GWK5HWQB"
+    "sku": ""
    },
    "priciest": {
     "product_id": "samsung-65-u8000h",
@@ -397,8 +406,8 @@
     "in_stock": true,
     "sku": ""
    },
-   "gap": 3500.0,
-   "gap_pct": 12
+   "gap": 3000.0,
+   "gap_pct": 10
   },
   {
    "product_id": "lg-55-nu830b",
@@ -414,15 +423,15 @@
    },
    "priciest": {
     "product_id": "lg-55-nu830b",
-    "store": "2B",
-    "title": "LG TV 55 Inch NU83 4K UHD - Smart Nano Cell LED - With Built In Receiver - 55NU830B6LA",
-    "price": 23999.0,
-    "url": "https://2b.com.eg/en/lg-tv-55-inch-nu83-4k-uhd-smart-nano-cell-led-with-built-in-receiver-55nu830b6la.html",
+    "store": "Raya",
+    "title": "LG NU83 55 Inch 4K UHD Smart NanoCell LED TV with Built In Receiver - 55NU830B6LA",
+    "price": 23499.0,
+    "url": "https://www.rayashop.com/en/lg-nu83-55-inch-4k-uhd-smart-nanocell-led-tv-with-built-in-receiver-55nu830b6la-3",
     "in_stock": true,
     "sku": ""
    },
-   "gap": 2111.0,
-   "gap_pct": 9
+   "gap": 1611.0,
+   "gap_pct": 7
   },
   {
    "product_id": "samsung-50-u8000h",
@@ -449,54 +458,6 @@
    "gap_pct": 8
   },
   {
-   "product_id": "lg-65-nu830b",
-   "name": "LG 65\" NanoCell 4K NU830B",
-   "cheapest": {
-    "product_id": "lg-65-nu830b",
-    "store": "B.Tech",
-    "title": "LG 65 Inch Smart TV , Nano 4K UHD Built-In Receiver - 65NU830B6LA",
-    "price": 27499.0,
-    "url": "https://btech.com/en/p/lg-65-inch-smart-tv-nano-4k-uhd-65nu830b6la?offering_id=778cf660-59a4-4feb-97cc-48842c99d7b1",
-    "in_stock": true,
-    "sku": "1TLGTVSM65NU830BL030"
-   },
-   "priciest": {
-    "product_id": "lg-65-nu830b",
-    "store": "2B",
-    "title": "LG TV 65 Inch NU83 4K UHD - Smart Nano Cell LED - With Built In Receiver - 65NU830B6LA",
-    "price": 28999.0,
-    "url": "https://2b.com.eg/en/lg-tv-65-inch-nu83-4k-uhd-smart-nano-cell-led-with-built-in-receiver-65nu830b6la.html",
-    "in_stock": true,
-    "sku": ""
-   },
-   "gap": 1500.0,
-   "gap_pct": 5
-  },
-  {
-   "product_id": "samsung-43-u8000h",
-   "name": "Samsung 43\" Crystal UHD 4K U8000H",
-   "cheapest": {
-    "product_id": "samsung-43-u8000h",
-    "store": "Raya",
-    "title": "Samsung U8000H 43 Inch 4K UHD Smart LED TV with Built In Receiver - UA43U8000H",
-    "price": 15799.0,
-    "url": "https://www.rayashop.com/en/samsung-u8000h-43-inch-4k-uhd-smart-led-tv-with-built-in-receiver-ua43u8000h-ua43u8000h",
-    "in_stock": true,
-    "sku": ""
-   },
-   "priciest": {
-    "product_id": "samsung-43-u8000h",
-    "store": "2B",
-    "title": "Samsung U8000H TV 43 Inch 4K UHD Smart LED Built In Receiver - UA43U8000H",
-    "price": 16999.0,
-    "url": "https://2b.com.eg/en/samsung-u8000h-tv-43-inch-4k-uhd-smart-led-built-in-receiver-ua43u8000h.html",
-    "in_stock": true,
-    "sku": ""
-   },
-   "gap": 1200.0,
-   "gap_pct": 7
-  },
-  {
    "product_id": "lg-50-nu830b",
    "name": "LG 50\" NanoCell 4K NU830B",
    "cheapest": {
@@ -521,13 +482,61 @@
    "gap_pct": 5
   },
   {
+   "product_id": "lg-65-nu830b",
+   "name": "LG 65\" NanoCell 4K NU830B",
+   "cheapest": {
+    "product_id": "lg-65-nu830b",
+    "store": "B.Tech",
+    "title": "LG 65 Inch Smart TV , Nano 4K UHD Built-In Receiver - 65NU830B6LA",
+    "price": 27499.0,
+    "url": "https://btech.com/en/p/lg-65-inch-smart-tv-nano-4k-uhd-65nu830b6la?offering_id=778cf660-59a4-4feb-97cc-48842c99d7b1",
+    "in_stock": true,
+    "sku": "1TLGTVSM65NU830BL030"
+   },
+   "priciest": {
+    "product_id": "lg-65-nu830b",
+    "store": "Raya",
+    "title": "LG NU83 65 Inch 4K UHD Smart NanoCell LED TV with Built In Receiver - 65NU830B6LA",
+    "price": 28299.0,
+    "url": "https://www.rayashop.com/en/lg-nu83-65-inch-4k-uhd-smart-nanocell-led-tv-with-built-in-receiver-65nu830b6la-4",
+    "in_stock": true,
+    "sku": ""
+   },
+   "gap": 800.0,
+   "gap_pct": 3
+  },
+  {
+   "product_id": "samsung-43-u8000h",
+   "name": "Samsung 43\" Crystal UHD 4K U8000H",
+   "cheapest": {
+    "product_id": "samsung-43-u8000h",
+    "store": "Amazon.eg",
+    "title": "Samsung 43 Inch Crystal UHD TV, U8000H, 4K, Crystal Processor, 4K Upscaling, Q-Symphony,Samsung TV Plus, Secured by Knox, UA43U8000HUXEG (2026 Model)",
+    "price": 15799.0,
+    "url": "https://www.amazon.eg/-/en/Samsung-Processor-Upscaling-Q-Symphony-UA43U8000HUXEG/dp/B0GRBS6XPZ",
+    "in_stock": true,
+    "sku": "B0GRBS6XPZ"
+   },
+   "priciest": {
+    "product_id": "samsung-43-u8000h",
+    "store": "B.Tech",
+    "title": "Samsung 43 Inch Smart TV , 4K LED Built-In Receiver",
+    "price": 16499.0,
+    "url": "https://btech.com/en/p/4ab7d41a-9608-493c-b9b2-e74fd5bd7627?offering_id=379ebdaf-5d78-406e-978f-3e0c702b827b",
+    "in_stock": true,
+    "sku": "1TSATVSM43U8000HL007"
+   },
+   "gap": 700.0,
+   "gap_pct": 4
+  },
+  {
    "product_id": "samsung-43-f6000f",
    "name": "Samsung 43\" FHD Smart F6000F",
    "cheapest": {
     "product_id": "samsung-43-f6000f",
     "store": "Amazon.eg",
     "title": "Samsung 43 Inch Full HD Smart LED TV with Built-in Receiver - Black - UA43F6000FUXEG [2025 Model]",
-    "price": 14399.0,
+    "price": 14611.0,
     "url": "https://www.amazon.eg/-/en/Samsung-Inch-Smart-Built-Receiver/dp/B0F5QM35FZ",
     "in_stock": true,
     "sku": "B0F5QM35FZ"
@@ -541,8 +550,8 @@
     "in_stock": true,
     "sku": "1TSATVSM43F6000FL007"
    },
-   "gap": 600.0,
-   "gap_pct": 4
+   "gap": 388.0,
+   "gap_pct": 3
   }
  ],
  "deals": []
